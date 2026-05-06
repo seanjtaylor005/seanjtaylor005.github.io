@@ -4,9 +4,6 @@ image: sean.jpg
 about:
   template: trestles
   links:
-    - icon: linkedin
-      text: LinkedIn
-      href: www.linkedin.com/in/sean-t-25b926111
     - text: The Bay Foundation
       href: https://www.santamonicabay.org
     - text: Claisse Lab
@@ -23,4 +20,4 @@ I am dedicated to the conservation of marine coastal ecosystems and have activel
 
 California Polytechnic University, Pomona \| Master’s in Biology \| Pomona, CA \| August 2025 - Current
 
-University of Southern Califronia \| Bachelor of Science \| Los Angeles, CA \| August 2018 - May 2022
+University of Southern California \| Bachelor of Science \| Los Angeles, CA \| August 2018 - May 2022
