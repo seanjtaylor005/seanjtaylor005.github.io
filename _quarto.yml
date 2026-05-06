@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sean Taylor"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Research.qmd
+        text: Projects and Research
+      - href: Presentation.qmd
+        text: Presentations and Contributions
+      - href: SCUBA.qmd
+        text: SCUBA
+      - text: "CV"
+        href: Sean_Taylor_2026_CV.pdf
+
+format:
+  html:
+    theme: superhero
+    css: styles.css
+    toc: true
+
+editor: visual
+
